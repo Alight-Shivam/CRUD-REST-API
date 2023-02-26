@@ -1,0 +1,12 @@
+Web Browser
+
+REST API -> Http -> Get, Post, Patch, Delete
+
+Framework - Express
+
+Database - Mongodb
+
+GET - http://localhost:9000/aliens
+GET - http://localhost:9000/aliens/<id>
+POST - http://localhost:9000/aliens
+PATCH - http://localhost:9000/aliens/<id>
